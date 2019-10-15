@@ -1,0 +1,11 @@
+GradeA= INPUT
+GradeB=INPUT
+GradeC=INPUT
+average=(GRADEA+GRADEB+GRADEC)/3
+if (AVERAGE>=60){
+print (pass)
+}
+else{
+print (fail)
+}
+end if
