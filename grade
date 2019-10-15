@@ -1,0 +1,9 @@
+Grade=A=7
+Grade=B=16
+Grade=c=10
+average=33
+if (grade)=33 Then
+print (pass)
+else
+print (fail)
+end if
